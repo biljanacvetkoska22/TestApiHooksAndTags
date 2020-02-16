@@ -1,0 +1,11 @@
+D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Contracts\bin\Debug\UserApi.Contracts.dll
+D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Contracts\bin\Debug\UserApi.Contracts.pdb
+D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Contracts\obj\Debug\UserApi.Contracts.dll
+D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Contracts\obj\Debug\UserApi.Contracts.pdb
+D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Contracts\obj\Debug\UserApi.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\9781838558857_Code\CODES\Section 6\UserApi.Api-scopes-hooks-and-tags\UserApi.Contracts\bin\Debug\UserApi.Contracts.dll
+C:\Users\User\source\repos\9781838558857_Code\CODES\Section 6\UserApi.Api-scopes-hooks-and-tags\UserApi.Contracts\bin\Debug\UserApi.Contracts.pdb
+C:\Users\User\source\repos\9781838558857_Code\CODES\Section 6\UserApi.Api-scopes-hooks-and-tags\UserApi.Contracts\obj\Debug\UserApi.Contracts.csprojAssemblyReference.cache
+C:\Users\User\source\repos\9781838558857_Code\CODES\Section 6\UserApi.Api-scopes-hooks-and-tags\UserApi.Contracts\obj\Debug\UserApi.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\9781838558857_Code\CODES\Section 6\UserApi.Api-scopes-hooks-and-tags\UserApi.Contracts\obj\Debug\UserApi.Contracts.dll
+C:\Users\User\source\repos\9781838558857_Code\CODES\Section 6\UserApi.Api-scopes-hooks-and-tags\UserApi.Contracts\obj\Debug\UserApi.Contracts.pdb

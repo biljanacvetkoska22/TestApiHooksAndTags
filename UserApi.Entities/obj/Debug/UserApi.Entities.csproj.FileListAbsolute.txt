@@ -1,0 +1,11 @@
+D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Entities\bin\Debug\UserApi.Entities.dll
+D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Entities\bin\Debug\UserApi.Entities.pdb
+D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Entities\obj\Debug\UserApi.Entities.csprojResolveAssemblyReference.cache
+D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Entities\obj\Debug\UserApi.Entities.dll
+D:\BitBucket\BDDAPI\UserApi.Api\UserApi.Entities\obj\Debug\UserApi.Entities.pdb
+C:\Users\User\source\repos\9781838558857_Code\CODES\Section 6\UserApi.Api-scopes-hooks-and-tags\UserApi.Entities\bin\Debug\UserApi.Entities.dll
+C:\Users\User\source\repos\9781838558857_Code\CODES\Section 6\UserApi.Api-scopes-hooks-and-tags\UserApi.Entities\bin\Debug\UserApi.Entities.pdb
+C:\Users\User\source\repos\9781838558857_Code\CODES\Section 6\UserApi.Api-scopes-hooks-and-tags\UserApi.Entities\obj\Debug\UserApi.Entities.csprojAssemblyReference.cache
+C:\Users\User\source\repos\9781838558857_Code\CODES\Section 6\UserApi.Api-scopes-hooks-and-tags\UserApi.Entities\obj\Debug\UserApi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\9781838558857_Code\CODES\Section 6\UserApi.Api-scopes-hooks-and-tags\UserApi.Entities\obj\Debug\UserApi.Entities.dll
+C:\Users\User\source\repos\9781838558857_Code\CODES\Section 6\UserApi.Api-scopes-hooks-and-tags\UserApi.Entities\obj\Debug\UserApi.Entities.pdb
